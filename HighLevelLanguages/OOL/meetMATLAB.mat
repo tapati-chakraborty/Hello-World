@@ -1,0 +1,11 @@
+/*                                 MATLAB                               */
+
+A combination of a programme and a language. Used to analyse data and develop algorithms.
+
+classdef Hello
+    methods
+        function greet(this)
+            disp('Hello World!')
+        end
+    end
+end

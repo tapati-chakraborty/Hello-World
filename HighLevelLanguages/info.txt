@@ -1,0 +1,45 @@
+Classification of High-Level languages:
+
+    The high-level programming languages can be categorized into different types on
+the basis of the application area in which they are employed as well as the different
+design paradigms supported by them.
+
+1.Categorisation based on Application
+
+    a)Commercial languages:These programming languages are dedicated to the
+                           commercial domain and are specially designed for solving
+                           business-related problems.
+        Ex:COBOL
+
+    b)Scientific languages:These programming languages are dedicated to the
+                           scientific domain and are specially designed for solving
+                           different scientific and mathematical problems.
+        Ex:FORTAN
+
+    c)Special purpose languages:These programming languages are specially designed
+                                for performing some dedicated functions. For example,
+                                SQL is a high-level language specially designed to
+                                interact with the database programs only.
+
+    d)General purpose languages:These programming languages are used for developing
+                                different types of software application regardless
+                                of their application area.
+        Ex:BASIC, C, C++, JAVA
+
+2.Categorisation based on Design paradigm
+
+    a)Procedure-oriented languages:These programming languages are also called an
+                                   imperative programming language. In this language,
+                                   a program is written as a sequence of procedures.
+        Ex:FORTRAN, ALGOL, C, BASIC, and ADA
+
+    b)Logic-oriented languages:These languages use logic programming paradigms as
+                               the design approach for solving various computational problems.
+        Ex:Prolog
+
+    c) Object-oriented languages:These languages use object-oriented programming paradigms
+                                 as the design approach for solving a given problem.
+                                 In this programming language, a problem is divided into
+                                 a number of objects which can interact by passing messages
+                                 to each other.
+            Ex:C++ and C# 

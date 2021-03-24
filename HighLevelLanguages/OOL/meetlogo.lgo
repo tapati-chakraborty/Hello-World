@@ -1,0 +1,9 @@
+                                  LOGO                          
+
+Intended for education use, Logo has a close association with teaching graphical
+concepts. Popular in the 80s, a student would direct an on-screen “turtle” to draw lines.
+
+
+TO HELLO
+    PRINT [Hello World]
+    END

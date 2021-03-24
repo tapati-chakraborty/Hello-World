@@ -1,0 +1,27 @@
+                       ***  Programming languages  ***
+
+    Wikipedia claims there are approximately 700 programming languages, while others
+say that number is closer to 9000! The truth is, there’ve been countless programming
+languages created throughout history. But like spoken languages, there’s a hierarchy
+of programming languages based on their prevalence and usage.
+
+    Each programming language contains a unique set of keywords and syntax, which are
+used to create a set of instructions. Thousands of programming languages have been
+developed till now, but each language has its specific purpose.
+
+    programming languages are mainly classified into 2 types:-------
+    a)High-Level language
+    b)Low-Level language
+
+Low level languages can further be classified into 2 types, that are:----
+
+a)Machine Level language
+b)Assambly language
+
+                         Programming language
+                             /            \
+                        High-Level      Low-Level
+                        language         language
+                                        /        \
+                                Machine-Level   Assambly
+                                language         language
